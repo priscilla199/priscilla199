@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @priscilla199
-- 👀 I’m interested in learning eerything about codimg from the basics
+- 👀 I’m a fullstack developer.
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on different project
-- 📫 How to reach me kobumanzipriscilla@gmail.com
+- 💞️ I’m looking to collaborate on different projects
+- 📫 How to reach me priscillakobumanzi2@gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: am trying to change the world
 
